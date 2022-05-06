@@ -11,4 +11,4 @@ How to Use
 4. Scan Marker from your camera 
 5. The object and description will see when scan marker
 
-Copyright 2020 Everscene
+
